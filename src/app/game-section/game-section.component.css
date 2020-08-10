@@ -1,0 +1,11 @@
+.image-class {
+    width: 60% !important;
+    height: 60% !important;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.image-container {
+    justify-content: center;
+    text-align: center;
+}
