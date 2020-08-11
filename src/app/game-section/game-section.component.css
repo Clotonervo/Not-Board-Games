@@ -1,9 +1,10 @@
 .image-class {
-    width: 60% !important;
+    width: 70% !important;
     height: 60% !important;
     padding-top: 2rem;
     padding-bottom: 2rem;
 }
+
 
 .image-container {
     justify-content: center;
@@ -11,7 +12,6 @@
 }
 
 .text-wrapper {
-    /* text-align: center; */
     margin-top: 20px;
 }
 
@@ -32,3 +32,14 @@
 .price-wrapper {
     margin-top: 40px;
 }
+
+.row {
+    margin-top: 2rem !important;
+    margin-bottom: 2rem !important;
+    margin: auto;
+    border-radius: 40px;
+  } 
+
+  .col-sm-4 {
+      vertical-align: center;
+  }
