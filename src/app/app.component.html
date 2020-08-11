@@ -21,6 +21,7 @@
       <div class="container" style="width: 100%">
         <div *ngFor="let game of gamesArray" class="row" style="background-color: #eee;">
           <app-game-section [title]='game.title'
+                            [price]='game.price'
                             [players]="game.players" 
                             [type]="game.type" 
                             [description]="game.description" 
