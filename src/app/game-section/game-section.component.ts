@@ -1,4 +1,5 @@
 import { Component, OnInit, Input } from '@angular/core';
+import { title } from 'process';
 
 @Component({
   selector: 'app-game-section',
@@ -14,12 +15,14 @@ export class GameSectionComponent implements OnInit {
   @Input() items: [any];
   @Input() price: string;
   slideIndex: number = 1;
+  id: string;
 
-  constructor() { }
+  constructor() {
 
-  ngOnInit(): void {
-    console.log(this.items)
-    console.log(this.slideIndex)
+   }
+
+  ngOnInit(): void {  
+    this.id = this.title.replace(/\s/g, '');
   }
 
   ngAfterViewChecked(): void {
@@ -28,7 +31,7 @@ export class GameSectionComponent implements OnInit {
 
   showSlides(n) {
     var i;
-    var slides = <HTMLElement[]><any>document.getElementsByClassName("mySlides");
+    var slides = <HTMLElement[]><any>document.getElementsByClassName(this.id);
     if (n > slides.length) {this.slideIndex = 1}
     if (n < 1) {this.slideIndex = slides.length}
     for (i = 0; i < slides.length; i++) {

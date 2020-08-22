@@ -1,13 +1,12 @@
 <div  class="row" style="background-color: #eee;">
     <div class="col-sm-4">
         <div class="image-container">
-            <div *ngFor="let item of items" class="mySlides">
+            <div *ngFor="let item of items" class="mySlides {{id}}">
                 <img src="{{item}}" class="image-class">
             </div>
             
-              <!-- Next and previous buttons -->
-              <a class="prev" (click)="plusSlides(-1)">&#10094;</a>
-              <a class="next" (click)="plusSlides(1)">&#10095;</a>
+              <a *ngIf="items.length > 1" class="prev" (click)="plusSlides(-1)">&#10094;</a>
+              <a *ngIf="items.length > 1" class="next" (click)="plusSlides(1)">&#10095;</a>
             </div>
         </div>
     <div class="col-sm-6">

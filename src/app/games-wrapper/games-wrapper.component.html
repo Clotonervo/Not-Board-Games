@@ -1,0 +1,46 @@
+    <div class="container">
+      <!-- Resources -->
+      <h2>Games</h2>
+      <h5 class="ml-3">Filters:</h5>
+  
+      <div class="btn-group">
+        <div class="btn-group" ngbDropdown role="group" aria-label="Button group with nested dropdown">
+          <button class="btn btn-outline-primary" ngbDropdownToggle>Select me</button>
+          <div class="dropdown-menu" ngbDropdownMenu>
+            <button ngbDropdownItem>One</button>
+            <button ngbDropdownItem>Two</button>
+            <button ngbDropdownItem>Four!</button>
+          </div>
+        </div>
+        <div class="btn-group" ngbDropdown role="group" aria-label="Button group with nested dropdown">
+          <button class="btn btn-outline-primary" ngbDropdownToggle>Or me</button>
+          <div class="dropdown-menu" ngbDropdownMenu>
+            <button ngbDropdownItem>One</button>
+            <button ngbDropdownItem>Two</button>
+            <button ngbDropdownItem>Four!</button>
+          </div>
+        </div>
+        <div class="btn-group" ngbDropdown role="group" aria-label="Button group with nested dropdown">
+          <button class="btn btn-outline-primary" ngbDropdownToggle>Or me</button>
+          <div class="dropdown-menu" ngbDropdownMenu>
+            <button ngbDropdownItem>One</button>
+            <button ngbDropdownItem>Two</button>
+            <button ngbDropdownItem>Four!</button>
+          </div>
+        </div>
+      </div>
+  
+      <p>Here are some links to help you get started:</p>
+          <div class="container" style="width: 100%">
+            <div *ngFor="let game of gamesArray">
+              <app-game-section [title]='game.title'
+                                [price]='game.price'
+                                [players]="game.players" 
+                                [type]="game.type" 
+                                [description]="game.description" 
+                                [items]="game.items" 
+          ></app-game-section>
+        </div>
+      </div>
+    </div>
+    
