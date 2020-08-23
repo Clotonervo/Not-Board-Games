@@ -173,7 +173,7 @@
         "players": "2-4",
         "time": "15 min",
         "type": "Strategy",
-        "items": ["../assets/dutch-blitz.png", "../assets/dutchblitz2.png"]
+        "items": ["../assets/dutch-blitz.png", "../assets/dutch-blitz2.png"]
     },
     {
         "title": "Elder Sign",
@@ -182,7 +182,7 @@
         "players": "1-8",
         "time": "1-2 hours",
         "type": "Strategy",
-        "items": ["../assets/elder-sign.png", "../assets/elder-signs2.png"]
+        "items": ["../assets/eldersign.png", "../assets/eldersign2.png"]
     },
     {
         "title": "Euphoria: Build a Better Dystopia",
@@ -191,7 +191,7 @@
         "players": "2-6",
         "time": "1 hour",
         "type": "Strategy",
-        "items": ["../assets/", "../assets/"]
+        "items": ["../assets/euphoria.png"]
     },
     {
         "title": "For Sale",
@@ -200,7 +200,7 @@
         "players": "3-6",
         "time": "20-30 min",
         "type": "Strategy",
-        "items": ["../assets/", "../assets/"]
+        "items": ["../assets/forsale.png"]
     },
     {
         "title": "Forbidden Island",
@@ -209,7 +209,7 @@
         "players": "2-4",
         "time": "30 min",
         "type": "Strategy",
-        "items": ["../assets/", "../assets/"]
+        "items": ["../assets/forbiddenisland.png"]
     },
     {
         "title": "Illuminati",
@@ -218,7 +218,7 @@
         "players": "2-6",
         "time": "1-3 hours",
         "type": "Strategy",
-        "items": ["../assets/", "../assets/"]
+        "items": ["../assets/illuminati.png", "../assets/illuminati2.png"]
     },
     {
         "title": "Killer Bunnies and the Quest for the Magic Carrot",
@@ -227,7 +227,7 @@
         "players": "2-8",
         "time": "20-60 min",
         "type": "Strategy",
-        "items": ["../assets/", "../assets/"]
+        "items": ["../assets/killerbunny.png", "../assets/killerbunny2.png"]
     },
     {
         "title": "Letterflip",
@@ -236,7 +236,7 @@
         "players": "2",
         "time": "10-20 min",
         "type": "Strategy",
-        "items": ["../assets/", "../assets/"]
+        "items": ["../assets/letterflip.png"]
     },
     {
         "title": "Mancala",
@@ -245,7 +245,7 @@
         "players": "2",
         "time": "10-20 min",
         "type": "Strategy",
-        "items": ["../assets/", "../assets/"]
+        "items": ["../assets/mancala.png"]
     },
     {
         "title": "Mastermind",
@@ -254,7 +254,7 @@
         "players": "2",
         "time": "15 min",
         "type": "Strategy",
-        "items": ["../assets/", "../assets/"]
+        "items": ["../assets/mastermind.png"]
     },
     {
         "title": "Munchkin",
@@ -263,7 +263,7 @@
         "players": "3-6",
         "time": "1-2 hours",
         "type": "Strategy",
-        "items": ["../assets/", "../assets/"]
+        "items": ["../assets/munchkin.png", "../assets/munchkin2.png"]
     },
     {
         "title": "Munchkin Adventure Time",
@@ -272,7 +272,7 @@
         "players": "3-6",
         "time": "1-2 hours",
         "type": "Strategy",
-        "items": ["../assets/", "../assets/"]
+        "items": ["../assets/munchkin-adventure.png", "../assets/munchkin-adventure2.png"]
     },
     {
         "title": "Munchkin Apocalypse",
@@ -281,7 +281,7 @@
         "players": "3-6",
         "time": "1-2 hours",
         "type": "Strategy",
-        "items": ["../assets/", "../assets/"]
+        "items": ["../assets/muchkin-apoc.png", "../assets/munchkin-apoc2.png"]
     },
     {
         "title": "Munchkin Cthulu",
@@ -290,7 +290,7 @@
         "players": "3-8",
         "time": "60 min",
         "type": "Strategy",
-        "items": ["../assets/", "../assets/"]
+        "items": ["../assets/muchkin-cthulu.png", "../assets/munchkin-cthulu2.png"]
     },
     {
         "title": "Munchkin Fu",
@@ -299,7 +299,7 @@
         "players": "3-6",
         "time": "60 min",
         "type": "Strategy",
-        "items": ["../assets/", "../assets/"]
+        "items": ["../assets/munckin-fu.png"]
     },
     {
         "title": "Munchkin Holiday Surprise",
@@ -308,7 +308,7 @@
         "players": "3-6",
         "time": "1-2 hours",
         "type": "Strategy",
-        "items": ["../assets/", "../assets/"]
+        "items": ["../assets/munchkin-holiday.png"]
     },
     {
         "title": "Munchkin Marvel",
@@ -351,7 +351,7 @@
         "price": "$10",
         "players": "2-6",
         "type": "Social",
-        "items": ["../assets/phase10.png"]
+        "items": ["../assets/phaseten.png"]
     },
     {
         "title": "Save Doctor Lucky",
@@ -378,7 +378,7 @@
         "players": "1 or more",
         "time": "5-10 min",
         "type": "Strategy",
-        "items": ["../assets/", "../assets/"]
+        "items": ["../assets/set.png"]
     },
     {
         "title": "Sheriff of Nottingham",
@@ -405,7 +405,7 @@
         "players": "2",
         "time": "20 min",
         "type": "Strategy",
-        "items": ["../assets/starrealms.png", "../assets/starrealms.png"]
+        "items": ["../assets/star-realms.png", "../assets/star-realm2.png"]
     },
     {
         "title": "Street Fighter: Deck-Building Game",
@@ -414,7 +414,7 @@
         "players": "2-5",
         "time": "30-45 min",
         "type": "Strategy",
-        "items": ["../assets/", "../assets/"]
+        "items": ["../assets/streetfighter.png"]
     },
     {
         "title": "Super Munchkin",
@@ -459,7 +459,7 @@
         "players": "3-8",
         "time": "1-2 hours",
         "type": "Strategy",
-        "items": ["../assets/munckin-goodbad.png", "../assets/munchkin-goodbad2.png"]
+        "items": ["../assets/munchkin-goodbad.png", "../assets/munchkin-goodbad2.png"]
     },
     {
         "title": "The Metagame",
@@ -468,7 +468,7 @@
         "players": "2-33",
         "time": "15-30 min",
         "type": "Social",
-        "items": ["../assets/", "../assets/"]
+        "items": ["../assets/metagame.png", "../assets/metagame2.png"]
     },
     {
         "title": "The Oregon Trail",
@@ -485,7 +485,7 @@
         "price": "$45",
         "players": "3-4",
         "time": "60 min",
-        "items": ["../assets/", "../assets/"]
+        "items": ["../assets/catan.png", "../assets/catan2.png"]
     },
     {
         "title": "The Voting Game",
@@ -528,7 +528,7 @@
         "players": "2-6",
         "time": "40 min (2 players) 120 min (6 players)",
         "type": "Strategy",
-        "items": ["../assets/villianous.png", "../assets/villainous2.png"]
+        "items": ["../assets/villian.png", "../assets/villian2.png"]
     },
     {
         "title": "Villainous - Perfectly Wretched Expansion",
@@ -537,7 +537,7 @@
         "players": "2-3",
         "time": "40-60 min",
         "type": "Strategy",
-        "items": ["../assets/villainous3.png"]
+        "items": ["../assets/villian3.png"]
     },
     {
         "title": "Villainous - Wicked to the Core Expansion ",
@@ -546,7 +546,7 @@
         "players": "2-3",
         "time": "40-60 min",
         "type": "Strategy",
-        "items": ["../assets/villianous4.png"]
+        "items": ["../assets/villain3.png"]
     },
     {
         "title": "What Do You Meme?",
@@ -556,5 +556,14 @@
         "time": "30-90 min",
         "type": "Social",
         "items": ["../assets/whatdoyoumeme.png"]
-    }    
+    },
+    {
+        "title": "Skull King",
+        "description": "Stuff",
+        "price": "$10",
+        "players": "2-6",
+        "time": "45 min",
+        "type": "Social",
+        "items": ["../assets/skullking.png"]
+    }        
 ]
