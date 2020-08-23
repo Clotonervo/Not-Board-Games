@@ -5,9 +5,9 @@
   
       <div class="btn-group">
         <div class="btn-group" ngbDropdown role="group" aria-label="Button group with nested dropdown">
-          <button class="btn btn-outline-primary" ngbDropdownToggle>Select me</button>
+          <button class="btn btn-outline-primary" ngbDropdownToggle>{{currentFilter}}</button>
           <div class="dropdown-menu" ngbDropdownMenu>
-            <button ngbDropdownItem>One</button>
+            <button ngbDropdownItem *ngFor="let filter of filters" (click)="changeFilter(filter)">{{filter}}</button>
             <button ngbDropdownItem>Two</button>
             <button ngbDropdownItem>Four!</button>
           </div>
