@@ -20,6 +20,11 @@
     margin: 0;
   }
 
+  .content {
+    background-color: white;
+    border-radius: 50px;
+  }
+
   .spacer {
     flex: 1;
   }

@@ -42,22 +42,26 @@
 <div class="content" role="main">
   <ul ngbNav #nav="ngbNav" class="nav-tabs">
     <li ngbNavItem>
+      <a ngbNavLink (click)="changePage('About Us')">About Us</a>
+    </li>
+    <li ngbNavItem>
       <a ngbNavLink (click)="changePage('Games')">Games</a>
     </li>
     <li ngbNavItem>
       <a ngbNavLink (click)="changePage('Contact')">Contact us</a>
-      <ng-template ngbNavContent>Second content</ng-template>
     </li>
   </ul>
   <div [ngbNavOutlet]="nav"></div>
+  
+  <div *ngIf="currentlySelectedScreen == 'About Us'">
+    <app-about></app-about>
+  </div>
   <div *ngIf="currentlySelectedScreen == 'Games'">
     <app-games-wrapper></app-games-wrapper>
   </div>
+  <div *ngIf="currentlySelectedScreen == 'Contact'">
+    <app-contact></app-contact>
+  </div>
   <!-- <app-games-wrapper></app-games-wrapper> -->
-
-  <!-- Footer -->
-  <footer>
-    <p> test footer</p>
-  </footer>
 
 </div>

@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Not-Board-Games';
-  currentlySelectedScreen = 'Games';
+  currentlySelectedScreen = 'About Us';
 
   changePage(newPage){
     this.currentlySelectedScreen = newPage;

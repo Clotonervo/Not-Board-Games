@@ -7,13 +7,15 @@ import { GameSectionComponent } from './game-section/game-section.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { GamesWrapperComponent } from './games-wrapper/games-wrapper.component';
 import { ContactComponent } from './contact/contact.component';
+import { AboutComponent } from './about/about.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     GameSectionComponent,
     GamesWrapperComponent,
-    ContactComponent
+    ContactComponent,
+    AboutComponent
   ],
   imports: [
     BrowserModule,
