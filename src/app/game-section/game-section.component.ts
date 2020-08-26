@@ -1,5 +1,4 @@
 import { Component, OnInit, Input } from '@angular/core';
-import { title } from 'process';
 
 @Component({
   selector: 'app-game-section',
