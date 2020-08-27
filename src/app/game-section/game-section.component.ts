@@ -13,6 +13,7 @@ export class GameSectionComponent implements OnInit {
   @Input() description: string;
   @Input() items: [any];
   @Input() price: string;
+  @Input() video: string;
   slideIndex: number = 1;
   id: string;
 

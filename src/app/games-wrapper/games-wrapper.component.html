@@ -5,38 +5,35 @@
   
       <div class="btn-group">
         <div class="btn-group" ngbDropdown role="group" aria-label="Button group with nested dropdown">
-          <button class="btn btn-outline-primary" ngbDropdownToggle>{{currentFilter}}</button>
+          <button class="btn btn-outline-primary" ngbDropdownToggle>{{currentPriceFilter}}</button>
           <div class="dropdown-menu" ngbDropdownMenu>
-            <button ngbDropdownItem *ngFor="let filter of filters" (click)="changeFilter(filter)">{{filter}}</button>
+            <button ngbDropdownItem *ngFor="let priceFilter of priceFilters" (click)="changePriceFilter(priceFilter)">{{priceFilter}}</button>
           </div>
         </div>
         <div class="btn-group" ngbDropdown role="group" aria-label="Button group with nested dropdown">
           <button class="btn btn-outline-primary" ngbDropdownToggle>Or me</button>
           <div class="dropdown-menu" ngbDropdownMenu>
-            <button ngbDropdownItem>One</button>
-            <button ngbDropdownItem>Two</button>
-            <button ngbDropdownItem>Four!</button>
+            <button ngbDropdownItem *ngFor="let priceFilter of priceFilters" (click)="changePriceFilter(priceFilter)">{{priceFilter}}</button>
           </div>
         </div>
         <div class="btn-group" ngbDropdown role="group" aria-label="Button group with nested dropdown">
-          <button class="btn btn-outline-primary" ngbDropdownToggle>Or me</button>
+          <button class="btn btn-outline-primary" ngbDropdownToggle>{{currentTypeFilter}}</button>
           <div class="dropdown-menu" ngbDropdownMenu>
-            <button ngbDropdownItem>One</button>
-            <button ngbDropdownItem>Two</button>
-            <button ngbDropdownItem>Four!</button>
+            <button ngbDropdownItem *ngFor="let typeFilter of typeFilters" (click)="changeTypeFilter(typeFilter)">{{typeFilter}}</button>
           </div>
         </div>
       </div>
   
       <p>Here are some links to help you get started:</p>
           <div class="container" style="width: 100%">
-            <div *ngFor="let game of gamesArray">
+            <div *ngFor="let game of filteredGames">
               <app-game-section [title]='game.title'
                                 [price]='game.price'
                                 [players]="game.players" 
                                 [type]="game.type" 
                                 [description]="game.description" 
                                 [items]="game.items" 
+                                [video]="game.video"
           ></app-game-section>
         </div>
       </div>
