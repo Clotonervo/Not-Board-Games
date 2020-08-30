@@ -417,7 +417,7 @@
         "title": "SET: The Family Game of Visual Perception",
         "description": "Race to find as many SETs as you can—the player with the most SETs at the end of the game wins! It’s triple matching mania that anybody can play, but nobody can stop!",
         "price": "$13",
-        "players": "1 or more",
+        "players": "2+",
         "time": "5-10 min",
         "type": "Strategy",
         "items": ["../assets/set.png"],

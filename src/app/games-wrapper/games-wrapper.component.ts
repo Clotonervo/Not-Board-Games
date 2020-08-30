@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import games from '../../assets/games.json';
+import { kMaxLength } from 'buffer';
 
 @Component({
   selector: 'app-games-wrapper',
@@ -13,12 +14,16 @@ export class GamesWrapperComponent implements OnInit {
   currentPriceFilter: string = "Price Filter";
   priceFilters = ["One", "Two", "Three", "This is last one"];
 
+  currentPlayerFilter: string = "Number of Players"
+  playerFilters = ["Number of Players", "1", "2", "3", "4", "5", "6", "7", "8+"];
+
   currentTypeFilter: string = "Strategy & Social";
   typeFilters = ["Strategy & Social", "Strategy", "Social"];
   
 
   constructor() { 
-    // console.log(this.gamesArray)
+    // console.log(this.gamesArray);
+    // console.log(this.getPlayers(this.games));
   }
 
   ngOnInit(): void {}
@@ -40,6 +45,24 @@ export class GamesWrapperComponent implements OnInit {
       return e.type === filter;
     });
 
+  }
+
+  changePlayerFilter(filter){
+    this.currentPlayerFilter = filter;
+    console.log("Player filter changed");
+
+    if(filter == "Number of Players"){
+      this.filteredGames = this.gamesArray;
+      return;
+    }
+
+    this.filteredGames = this.gamesArray.filter(function (e) {
+    });
+    
+  }
+
+  getPlayers(players){
+    return players.split("-");
   }
 
 

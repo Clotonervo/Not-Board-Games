@@ -11,9 +11,9 @@
           </div>
         </div>
         <div class="btn-group" ngbDropdown role="group" aria-label="Button group with nested dropdown">
-          <button class="btn btn-outline-primary" ngbDropdownToggle>Or me</button>
+          <button class="btn btn-outline-primary" ngbDropdownToggle>{{currentPlayerFilter}}</button>
           <div class="dropdown-menu" ngbDropdownMenu>
-            <button ngbDropdownItem *ngFor="let priceFilter of priceFilters" (click)="changePriceFilter(priceFilter)">{{priceFilter}}</button>
+            <button ngbDropdownItem *ngFor="let playerFilter of playerFilters" (click)="changePlayerFilter(playerFilter)">{{playerFilter}}</button>
           </div>
         </div>
         <div class="btn-group" ngbDropdown role="group" aria-label="Button group with nested dropdown">
@@ -29,8 +29,8 @@
             <div *ngFor="let game of filteredGames">
               <app-game-section [title]='game.title'
                                 [price]='game.price'
-                                [players]="game.players" 
-                                [type]="game.type" 
+                                [players]="getPlayers(game.players)" 
+                                [type]="game.type"
                                 [description]="game.description" 
                                 [items]="game.items" 
                                 [video]="game.video"
