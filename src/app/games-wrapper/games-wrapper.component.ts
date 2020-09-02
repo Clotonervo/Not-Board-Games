@@ -56,9 +56,39 @@ export class GamesWrapperComponent implements OnInit {
       return;
     }
 
+    if(filter == "8+"){
+      this.filteredGames = this.gamesArray.filter(function(e) {
+        var x = e.players.split("-")
+        if(x[0] == "Unlimited"){
+          return true;
+        }
+        else if (x.length == 2){
+          if (x[1] >= "8"){
+            return true;
+          }
+        }
+        return false;
+      });
+      return;
+    }
+
     this.filteredGames = this.gamesArray.filter(function (e) {
+      var x = e.players.split("-")
+      console.log
+      if(x[0] == "Unlimited"){
+        return true;
+      }
+      else if (x.length == 1 && filter == "2"){
+        return true
+      }
+      else if (x.length == 2){
+        if (x[0] <= filter && x[1] >= filter){
+          return true;
+        }
+      }
+      return false;
     });
-    
+    return 
   }
 
   getPlayers(players){
