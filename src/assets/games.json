@@ -2,7 +2,7 @@
     {
         "title": "Agricola",
         "description": "In Agricola (Latin for \"farmer\"), you're a farmer in a wooden shack with your spouse and little else. On a turn, you get to take only two actions, one for you and one for the spouse, from all the possibilities you'll find on a farm: collecting clay, wood or stone; building fences; and so on. You might think about having kids in order to get more work accomplished, but first you need to expand your house. And what are you going to feed all the little rug rats? Agricola is a turn based game.",
-        "price": "$35",
+        "price": "5",
         "players": "1-5",
         "time": "120 min",
         "type": "Strategy",
@@ -12,7 +12,7 @@
     {
         "title": "Axis & Allies",
         "description": "It's spring 1942, and the world is at war. Five major powers struggle for supremacy: Germany and Japan are aligned against the great alliance of the United Kingdom, the Soviet Union, and the United States. Designed for 2-5 players, the game is set in 1942 - the historical high-water mark of Axis expansion. Controlling one of the Axis or Allied powers, players will command both their country's military forces and its war-time economy, with the chance to plan attacks, marshal forces into embattled territories, and resolve conflicts. Victory will go to the side that conquers its opponents on the field of battle and liberates or occupies the greatest cities of the world. Change the course of history in a few short hours!",
-        "price": "$45",
+        "price": "5",
         "players": "2-5",
         "time": "90 min",
         "type": "Strategy",
@@ -22,7 +22,7 @@
     {
         "title": "Bananagrams",
         "description": "The anagram game that will drive you bananas! BANANAGRAMS is the award-winning word game that needs no pencil, paper, or board. Players race against each other to build crossword grids and use all their letter tiles first. BANANAGRAMS comes in a small portable banana-shaped pouch so is great for travel, and is perfect for everyone 7 & up",
-        "price": "$14",
+        "price": "5",
         "players": "1-8",
         "type": "Social",
         "items": ["../assets/bananagrams.png"],
@@ -31,7 +31,7 @@
     {
         "title": "Bang!",
         "description": "Wild West inspired characters duke it out to the sound of gunfire in this bluffing game of secret teams. In Bang!, you play as a Sheriff, Outlaw, Deputy, or Renegade with your own goals to win. This version includes the base game along with three expansions: High Noon, Dodge City, and A Fistful of Cards. ",
-        "price": "$32",
+        "price": "5",
         "players": "3-8",
         "time": "20-60 min",
         "type": "Strategy",
@@ -41,7 +41,7 @@
     {
         "title": "Battleship",
         "description": "In head to head battle, players search for the enemy’s fleet of ships and aircraft, and destroy them one by one. With convenient portable battle cases and realistic looking naval crafts and planes, the Battleship game puts players right in the middle of the action. Each player announces the coordinates of each strike, and then hopes that it hits. Position ships strategically to survive opponent's relentless strikes, and track hits and misses with red and white pegs on the ocean grid. No ship or aircraft is safe in this game of stealth and suspense.",
-        "price": "$15",
+        "price": "5",
         "players": "2",
         "type": "Strategy",
         "items": ["../assets/battleship1.png", "../assets/battleship2.png"],
@@ -50,7 +50,7 @@
     {
         "title": "Betrayal at House on the Hill",
         "description": "The creak of footsteps on the stairs, the smell of something foul and dead, the feel of something crawling down your back – this and more can be found in the exciting Betrayal at House on the Hill. This fun and suspenseful game is a new experience almost every time you play – you and your friends explore “that creepy old place on the hill” until enough mystic misadventures happen that one of the players turns on all of the others. With 50 fiendish scenarios (including seven new haunts) and dozens of danger-filled rooms, you'll return to the house again and again - as often as you dare - and never face the same game twice.",
-        "price": "$30",
+        "price": "5",
         "players": "3-6",
         "time": "60 min",
         "type": "Strategy",
@@ -60,7 +60,7 @@
     {
         "title": "Betrayal at House on the Hill: Widow's Walk (Expansion)",
         "description": "(Same as original)",
-        "price": "$23",
+        "price": "5",
         "players": "3-6",
         "time": "60 min",
         "type": "Strategy",
@@ -70,7 +70,7 @@
     {
         "title": "Boxers or Briefs",
         "description": "From the back of the box: \"Grab some friends and get ready for rounds of laughter as each player is put on the hot seat. The hilarity begins when you have to choose from the wild & wacky statements your friends pick to describe you. Will they reveal hidden quirks or will you all share a good laugh at their absurd choices? This easy-to-learn game will get the party started! More than 2000 unique and funny phrases provides hours of entertainment\" Each turn a new player will roll a die and then everyone else choose a card from their hand based on the line the dice rolled. The player then chooses the funniest and the truest about themnselves.",
-        "price": "$10",
+        "price": "5",
         "players": "4-8",
         "time": "15-45 min",
         "type": "Social",
@@ -80,7 +80,7 @@
     {
         "title": "Carcassonne",
         "description": "Carcassonne is a tile-placement game in which the players draw and place a tile with a piece of southern French landscape on it. The tile might feature a city, a road, a cloister, grassland or some combination thereof, and it must be placed adjacent to tiles that have already been played, in such a way that cities are connected to cities, roads to roads, etcetera. Having placed a tile, the player can then decide to place one of their meeples on one of the areas on it: on the city as a knight, on the road as a robber, on a cloister as a monk, or on the grass as a farmer. When that area is complete, that meeple scores points for its owner",
-        "price": "$30",
+        "price": "5",
         "players": "2-5",
         "time": "30-45 min",
         "type": "Strategy",
@@ -90,7 +90,7 @@
     {
         "title": "Card Wars: Adventure Time",
         "description": "Card Wars is the most epic card game ever found in the Land of Ooo, or anywhere for that matter! Now fans can play the actual Card Wars game! In the Adventure Time episode \"Card Wars,\" Jake begs Finn to play his favorite trading card game. Finn accepts, despite warnings from Beemo on how very competitive Jake can be while playing the game. Finn and Jake battle against each other to decide who will be the Dweeb and who will be the Cool Guy. BMO's Useless Swamp deck features Creatures from the episodes such as the triple-threat Immortal Maize Walker, the talkative Mouth ball and the underpants-wearing Wandering Bald Man! Lady Rain corn's Beach Party deck features fun-tastic creatures such as the coarse Sand Knights, the toothy Shark, the musical The Mariachi and many more.",
-        "price": "$45",
+        "price": "5",
         "players": "2",
         "time": "30 min",
         "type": "Strategy",
@@ -100,7 +100,7 @@
     {
         "title": "Cash n' Guns",
         "description": "The big heist may have been a success, but it all goes wrong when every crook wants a bigger cut. With this much money on the table, bullets speak louder than words! In Cash 'n Guns, players will point foam pistols at each other and try to intimidate their opponents into letting them have the largest share. The bravest crooks enjoy the most money - but only if they live long enough to spend it!",
-        "price": "$31",
+        "price": "5",
         "players": "4-8",
         "time": "30 min",
         "type": "Social",
@@ -110,7 +110,7 @@
     {
         "title": "Catch Phrase",
         "description": "Play The Grab It, Guess It, Pass It Game! The Catch Phrase game is an electronic game with 5,000 words and phrases that's fun and challenging for family and friends to play. Try to get teammates to guess the word or phrase that appears on the screen by describing it any way possible -- but do it fast! There are plenty of categories to choose from including Fun and Games, Entertainment, Everyday Life, Variety, and The World. Don't get caught holding the unit when the buzzer goes off because the other team will score a point. The first team to reach 7 points wins.",
-        "price": "$19",
+        "price": "5",
         "players": "Unlimited",
         "type": "Social",
         "time": "Unlimited",
@@ -120,7 +120,7 @@
     {
         "title": "Charty party",
         "description": "Gameplay is simple: for each round, one player is selected to be the Judge and flips over a chart card (with topics ranging from age to drunkeness to anxiety level).Everyone else anonymously plays their funniest orange card to name the Y Axis (vertical side) of the chart. The judge presents each chart and card combo, and picks a winner based on which one they found funniest.",
-        "price": "$25",
+        "price": "5",
         "players": "3+",
         "time": "Unlimited",
         "type": "Social",
@@ -130,7 +130,7 @@
     {
         "title": "Codenames",
         "description": "Cgame with a simple premise and challenging game play. Two rival spymasters know the secret identities of 25 agents. Their teammates know the agents only by their codenames. The teams compete to see who can make contact with all of their agents first. Spymasters give one-word clues that can point to multiple words on the table. Their teammates try to guess words of their color while avoiding those that belong to the opposing team. And everyone wants to avoid the assassin.",
-        "price": "$15",
+        "price": "5",
         "players": "2-8",
         "time": "15 min",
         "type": "Strategy",
@@ -140,7 +140,7 @@
     {
         "title": "Cover your assets",
         "description": "In Cover Your Assets you amass a fortune by collecting and building an alternating tower of matching pairs of asset cards. You’ve got to be careful though, because the top set of assets on your stack can be stolen by other players if they hold a matching asset or a gold or silver wild card. Every time a stack is stolen it increases in value, making it a more enticing target to steal and harder to hold onto. The best way to protect a valuable set it to cover those assets with a new set of assets. You literally Cover Your Assets. See what we did there?",
-        "price": "$15",
+        "price": "5",
         "players": "2-6",
         "type": "Strategy",
         "items": ["../assets/cover-your-assets.png"],
@@ -149,7 +149,7 @@
     {
         "title": "Dead of Winter",
         "description": "Dead of Winter: A Crossroads Game, the first game in this series, puts 2-5 players in a small, weakened colony of survivors in a world where most of humanity is either dead or diseased, flesh-craving monsters. Each player leads a faction of survivors with dozens of different characters in the game. Dead of Winter is a meta-cooperative psychological survival game. This means players are working together toward one common victory condition - but for each individual player to achieve victory, he must also complete his personal secret objective. This secret objective could relate to a psychological tick that's fairly harmless to most others in the colony, a dangerous obsession that could put the main objective at risk, a desire for sabotage of the main mission, or (worst of all) vengeance against the colony! Certain games could end with all players winning, some winning and some losing, or all players losing. Work toward the group's goal, but don't get walked all over by a loudmouth who's looking out only for his own interests! Dead of Winter is an experience that can be accomplished only through the medium of tabletop games. It's a story-centric game about surviving through a harsh winter in an apocalyptic world. The survivors are all dealing with their own psychological imperatives, but must still find a way to work together to fight off outside threats, resolve crises, find food and supplies and keep the colony's morale up. Dead of Winter has players making frequent, difficult, heavily- thematic, wildly-varying decisions that often have them deciding between what is best for the colony and what is best for themselves.",
-        "price": "$37",
+        "price": "5",
         "players": "2-5",
         "time": "90 min",
         "type": "Strategy",
@@ -159,7 +159,7 @@
     {
         "title": "Don't Mess With Cthulu",
         "description": "Don't mess with Cthulhu is ation game with secret identities. Players are either investigators trying to keep Cthulhu from waking and controlling the world, or cultists that want to bring the world to a disturbing end. Nobody knows who is on their team, or who they can trust. Each turn has the potential to wake Cthulhu and end the world in an instant.",
-        "price": "$18",
+        "price": "5",
         "players": "4-8",
         "time": "20 min",
         "type": "Social",
@@ -169,7 +169,7 @@
     {
         "title": "Dos",
         "description": "UNO has a new best friend, DOS! In this fun card game, two is more important than one, and number matching is king! Just like UNO, DOS involves a race to be the first to get rid of your cards. To start, there are two discard piles between the players. On each player's turn they can discard on either pile with either one or two cards, so if a player has two cards that add up to the number of a card in the center pile, they are able to put down BOTH cards. When you're down to two cards, don't forget to yell \"DOS!\" The first person to 200 points is the winner! ",
-        "price": "$10",
+        "price": "5",
         "players": "2-4",
         "time": "20 min",
         "type": "Social",
@@ -179,7 +179,7 @@
     {
         "title": "Double-12 Dominoes",
         "description": "With this one set you can play over 10 different games! Instructions included for fun games such as: Mexican Train, Poker, Muggins, Draw, Block, Bergen, Matador, Tiddle-A-Wink, Sebastopol, Bingo, The Big Clock Solitaire, Good Neighbors Solitaire, Traffic Solitaire, Squeeze Solitaire, That's It!, and Four-Hand Texas.",
-        "price": "$30",
+        "price": "5",
         "players": "2+",
         "type": "Strategy",
         "items": ["../assets/dominos.png"],
@@ -188,7 +188,7 @@
     {
         "title": "Dutch Blitz",
         "description": "Developed in Pennsylvania Dutch country, Dutch Blitz is a card game that's exciting to play and easy to learn. Perfect for family game nights, or to play with a group of good friends, you'll enjoy spirited competition as you try to get rid of your 10-card Blitz pile before anybody else. Not as easy as it sounds, though, because players don't take turns. You have to be the fastest to place your cards in sequence and in the same respective colors on the center Dutch piles while using as many cards from your Blitz Pile as possible. When your Blitz Pile has been exhausted, you've won.",
-        "price": "$10",
+        "price": "5",
         "players": "2-4",
         "time": "15 min",
         "type": "Strategy",
@@ -198,7 +198,7 @@
     {
         "title": "Elder Sign",
         "description": "Elder Sign lets players control investigators who must successfully endure adventures within the museum in order to gather clues, items, and the eldritch knowledge they need to seal the rifts between dimensions and prevent the Ancient One’s arrival. A clever and thematic dice mechanic pits their exploration against monsters and the sheer difficulty of staying sane and healthy while investigating the most dangerous exhibits and most terrifying instances of insanity. Elder Sign recreates the Lovecraftian thrills of eerie suspense and mind-numbing horrors in a cooperative game players can finish in one to two hours. Rules, card text, and innovative dice mechanics expertly designed by Richard Launius and Kevin Wilson, the designers of Arkham Horror, all blend in a game that’s quick to learn, quick to play, strategic enough to reward frequent replay, and eccentric enough to immerse players in the museum’s supernatural intrigue.",
-        "price": "$26",
+        "price": "5",
         "players": "1-8",
         "time": "1-2 hours",
         "type": "Strategy",
@@ -208,7 +208,7 @@
     {
         "title": "Euphoria: Build a Better Dystopia",
         "description": "In Euphoria, you lead a team of workers and recruits to claim ownership of the dystopian world. You will generate commodities, dig tunnels to infiltrate opposing areas, construct markets, collect artifacts, strengthen allegiances, and fulfill secret agendas. Four distinct societies, each of them waiting for you to rewrite history. What are you willing to sacrifice to build a better dystopia?",
-        "price": "$55",
+        "price": "5",
         "players": "2-6",
         "time": "1 hour",
         "type": "Strategy",
@@ -218,7 +218,7 @@
     {
         "title": "For Sale",
         "description": "One man's castle is another man's cardboard box… or maybe his RV, tree house, igloo or skyscraper. In this fast-paced game of bidding and bluffing to get the highest-ranking properties, it isn't how much you pay for the properties; it's how much you sell them for. All players try to purchase the most valuable properties for the least amount of money and then “flip” them (turn around and sell those properties) for the highest-valued currency cards. Whoever has earned the most money at the end of the game wins!",
-        "price": "$28",
+        "price": "5",
         "players": "3-6",
         "time": "20-30 min",
         "type": "Strategy",
@@ -228,7 +228,7 @@
     {
         "title": "Forbidden Island",
         "description": "Dare to discover Forbidden Island! Join a team of fearless adventurers on a do-or-die mission to capture four sacred treasures from the ruins of this perilous paradise. Your team will have to work together and make some pulse-pounding maneuvers, as the island will sink beneath every step! Race to collect the treasures and make a triumphant escape before you are swallowed into the watery abyss!",
-        "price": "$20",
+        "price": "5",
         "players": "2-4",
         "time": "30 min",
         "type": "Strategy",
@@ -238,7 +238,7 @@
     {
         "title": "Illuminati",
         "description": "The world is controlled by secret conspiracies. And YOU control THEM. In Illuminati, you increase your wealth and power until only you reign supreme!",
-        "price": "$27",
+        "price": "5",
         "players": "2-6",
         "time": "1-3 hours",
         "type": "Strategy",
@@ -248,7 +248,7 @@
     {
         "title": "Killer Bunnies and the Quest for the Magic Carrot",
         "description": "Killer Bunnies and the Quest for the Magic Carrot is a fast paced, action filled card game, in which you must try to keep as many Bunnies alive as possible, while eliminating your opponents’ Bunnies. The problem: Your opponents are armed with weapons and will stop at nothing to keep you from winning the game, which can get dreadfully vengeful, horribly nasty, hilariously messy, and just plain fun! Can you keep from being attacked by the whimsical Whisk or the torching Flame Thrower? Defend your Bunnies with the Magic Spatula, or use a Feed The Bunny card to starve out an opponent! It’s off-the-wall strategic fun, where the goal is to survive and claim the Magic Carrot to win the game!",
-        "price": "$22",
+        "price": "5",
         "players": "2-8",
         "time": "20-60 min",
         "type": "Strategy",
@@ -258,7 +258,7 @@
     {
         "title": "Letterflip",
         "description": "In Letter Flip players go head-to-head using clever deduction plus a little luck to spot concealed words.",
-        "price": "$40",
+        "price": "5",
         "players": "2",
         "time": "10-20 min",
         "type": "Strategy",
@@ -268,7 +268,7 @@
     {
         "title": "Mancala",
         "description": "The game dates back thousands of years ago and is said to have originated in Ancient Egypt. Mancala can be played by two players or two teams. The playing board has two rows, each containing six recessed circular spaces, as well as one larger recessed oblong space (also called the “home”) at either end. The playing board is laid horizontally between the two players. Each player (or team) takes 24 game beads and places six of them in each of the six circular spaces on his or her side of the playing board. Each player's home space is the large recessed space on his right side of the playing board. The object of the game is to collect the greatest number of beads.",
-        "price": "$20",
+        "price": "5",
         "players": "2",
         "time": "10-20 min",
         "type": "Strategy",
@@ -278,7 +278,7 @@
     {
         "title": "Mastermind",
         "description": "Test your code-cracking prowess with Mastermind, the challenging game of logic and deduction. Can you crack the code in 10 moves or less? Can you create a code than can't be cracked? It’s easy to learn and fast to play, and with more than 2,000 possible codes it’s different every time. The Codemaker sets a secret code, then the Codebreaker tries to match the code using logic, deduction, and maybe even a little bit of luck. After each move, the Codemaker gives clues to the Codebreaker. Make the code even more devious by using multiple pegs of the same color or by leaving one or more peg holes empty. With so many possible code combinations, every game is guaranteed to be a brainteaser.",
-        "price": "$10",
+        "price": "5",
         "players": "2",
         "time": "15 min",
         "type": "Strategy",
@@ -288,7 +288,7 @@
     {
         "title": "Munchkin",
         "description": "Munchkin is the mega-hit card game about dungeon adventure . . . with none of that stupid roleplaying stuff. You and your friends compete to kill monsters and grab magic items. Be sure to don the Horny Helmet and the Boots of Butt-Kicking. Wield the Staff of Napalm . . . or maybe the Chainsaw of Bloody Dismemberment. Fast-playing and silly, Munchkin can reduce any roleplaying group to hysteria. And, while they're laughing, you can steal their stuff.",
-        "price": "$20",
+        "price": "5",
         "players": "3-6",
         "time": "1-2 hours",
         "type": "Strategy",
@@ -298,7 +298,7 @@
     {
         "title": "Munchkin Adventure Time",
         "description": "Munchkin Adventure Time features full color art of all your favorite characters, events and items from the show. Play as your favorite characters or gender-blend into their fan fiction counterparts! Finn or Fiona, Jake or Cake, it's up to you! But BMO ignores all gender-related stuff 'cause I DON\"T KNOW! Jake shape shifts into a custom die...what the LUMP?! Mathematical!",
-        "price": "$25",
+        "price": "5",
         "players": "3-6",
         "time": "1-2 hours",
         "type": "Strategy",
@@ -308,7 +308,7 @@
     {
         "title": "Munchkin Apocalypse",
         "description": "It's the end of the world! In Munchkin Apocalypse, every possible natural (and unnatural) disaster has happened. You are a rugged survivor in a world full of people – and things – that want to kill you and take your stuff. So do it to them first! And what's with all these seals running around? Don't they know the world's about to end? You should keep an eye on that seventh one in particular . . .",
-        "price": "$25",
+        "price": "5",
         "players": "3-6",
         "time": "1-2 hours",
         "type": "Strategy",
@@ -318,7 +318,7 @@
     {
         "title": "Munchkin Cthulu",
         "description": "Munchkins have hacked their way through dungeons, kung fu temples, starships, haunted houses, and super-foes. Now they face their greatest challenge – Cthulhu! Will they survive? Will they retain their sanity? Will they . . . level up? Munchkin Cthuhlu is a stand-alone game in the Munchkin line, this time lampooning Lovecraft's Mythos and the horror gaming that surrounds it.",
-        "price": "$20",
+        "price": "5",
         "players": "3-8",
         "time": "60 min",
         "type": "Strategy",
@@ -328,7 +328,7 @@
     {
         "title": "Munchkin Fu",
         "description": "The Munchkins are back! Now the game is chop-socky Hong Kong action. The characters are Samurai, Ninja, Yakuza, and Monks. The foes are mooks, demons, and assorted bad guys from all the worst martial arts films you've ever seen. Collect treasures and learn new styles to build up your character's powers. Kill the monsters, take their stuff, and be the first one to 10th level!",
-        "price": "$25",
+        "price": "5",
         "players": "3-6",
         "time": "60 min",
         "type": "Strategy",
@@ -338,7 +338,7 @@
     {
         "title": "Munchkin Holiday Surprise",
         "description": "Get in the spirit of the season with this holiday-themed Munchkin game! Because of course, the holidays are all about bashing monsters and taking their stuff.",
-        "price": "$25",
+        "price": "5",
         "players": "3-6",
         "time": "1-2 hours",
         "type": "Strategy",
@@ -348,7 +348,7 @@
     {
         "title": "Munchkin Marvel",
         "description": "Munchkin Marvel edition is an all-new Munchkin game that fuses the fun of monster-slaying and role-playing with the most iconic characters from the Marvel universe. Kick open the door, fight the monster, grab the treasure, and level up to win!",
-        "price": "$50",
+        "price": "5",
         "players": "3-8",
         "time": "60 min",
         "type": "Strategy",
@@ -358,7 +358,7 @@
     {
         "title": "Munchkin Oz",
         "description": "Rescue the Scarecrow and the Tin Woodsman! Brave the Poppy Fields or the Deadly Desert! Fight against a Wicked Witch or King Krewl! Visit the Emerald City and talk with Dorothy, Ozma, or the Wizard himself! Play a Winkie, Gillikin, or Quadling . . . or even a Munchkin! L. Frank Baum’s Oz books have been favorites of children and their parents ever since they were published. Create your own adventure with Munchkin Oz!",
-        "price": "$23",
+        "price": "5",
         "players": "3-8",
         "time": "40-60 min",
         "type": "Strategy",
@@ -368,7 +368,7 @@
     {
         "title": "One Night Ultimate Werewolf",
         "description": "One Night Ultimate Werewolf is a fast paced game where everyone gets to be a different role. In the course of only one night and the following morning, the players will hopefully determine who among them is a werewolf.",
-        "price": "$25",
+        "price": "5",
         "players": "3-10",
         "time": "10 min",
         "items": ["../assets/werewolf.png", "../assets/werewolf2.png"],
@@ -377,7 +377,7 @@
     {
         "title": "Pandemic",
         "description": "Four diseases have broken out in the world and it is up to a team of specialists in various fields to find cures for these diseases before mankind is wiped out. Players must work together playing to their characters' strengths and planning their strategy of eradication before the diseases overwhelm the world with ever-increasing outbreaks. But the diseases are out breaking fast and time is running out: the team must try to stem the tide of infection in diseased areas while also towards cures. A truly cooperative game where you all win or you all lose.",
-        "price": "$40",
+        "price": "5",
         "players": "2-4",
         "time": "45 min",
         "type": "Strategy",
@@ -387,7 +387,7 @@
     {
         "title": "Phase 10",
         "description": "Phase 10 is the rummy-type card game from the makers of UNO with a challenging and exciting twist! And this version of Phase 10 comes in a decorative tin that's great for storage and ships in its own container. The object of the game is to be the first player to complete 10 varied phases with two sets of three, one run of seven, or seven cards with the same color. The twist is that each Phase to be completed is specific for each hand dealt. Players who complete one Phase advance to the next, but those who don't must keep trying until they do. Each deck features \"Wild\" and Skip\" cards, which add excitement and can help you get out of a sticky situation. A \"Wild\" card can be used in place of a number card, as well as be used as any color to complete any phase, while a \"Skip\" card causes your opponent to lose a turn! Be the first person to complete all ten phases to win the game.",
-        "price": "$10",
+        "price": "5",
         "players": "2-6",
         "type": "Social",
         "items": ["../assets/phaseten.png"],
@@ -396,7 +396,7 @@
     {
         "title": "Save Doctor Lucky",
         "description": "April 14, 1912. A cold night in the Atlantic. An errant iceberg, a titanic cruise ship, and one very lucky old man. Doctor Lucky is a charismatic and well-respected philanthropist with a heart of gold. Of course, you secretly hate the old bastard, and you are probably going to try to kill him someday. But killing him aboard a sinking ship would be pointless. So you have decided to save his life instead, and do it while someone else is looking. That way, even if you go down with the ship, you will at least go down in history. And isn’t that what life is all about? In Save Doctor Lucky, players are passengers on a sinking ship. You have one goal: to save Doctor Lucky’s life while someone else is watching. Players rush from deck to deck trying to find items that will aid them, and trying not to see anyone else who might play the hero. But as the ship sinks, the board grows smaller, bringing Doctor Lucky and the passengers together into the few remaining decks.",
-        "price": "$25",
+        "price": "5",
         "players": "3-7",
         "time": "30 min",
         "type": "Strategy",
@@ -406,7 +406,7 @@
     {
         "title": "Secret Hitler",
         "description": "Secret Hitler is a dramatic game of political intrigue and betrayal set in 1930's Germany. Players are secretly divided into two teams - liberals and fascists. Known only to each other, the fascists coordinate to sow distrust and install their cold-blooded leader. The liberals must find and stop the Secret Hitler before it’s too late.",
-        "price": "$35",
+        "price": "5",
         "players": "5-10",
         "time": "45 min",
         "type": "Social",
@@ -416,7 +416,7 @@
     {
         "title": "SET: The Family Game of Visual Perception",
         "description": "Race to find as many SETs as you can—the player with the most SETs at the end of the game wins! It’s triple matching mania that anybody can play, but nobody can stop!",
-        "price": "$13",
+        "price": "5",
         "players": "2+",
         "time": "5-10 min",
         "type": "Strategy",
@@ -426,7 +426,7 @@
     {
         "title": "Sheriff of Nottingham",
         "description": "An exciting game of bluffing, bribery and smuggling! You have come to Nottingham with your Goods on market day, and the only thing standing between you and your hard-earned profits is the Sheriff. All you need to do is bluff or bribe your way past him. ..or maybe, tell the truth! In Sheriff of Nottingham, you are a merchant trying to deliver your Goods to market. Players take turns assuming the role of Sheriff, who must decide which merchants’ bags to inspect and which to let by. As a merchant, your goal is to convince the Sheriff to let you in - by any means necessary!",
-        "price": "$35",
+        "price": "5",
         "players": "3-5",
         "time": "60 min",
         "type": "Strategy",
@@ -436,7 +436,7 @@
     {
         "title": "Splendor",
         "description": "The European Renaissance opened up more ways of becoming rich than the continent had ever known before. Global trade routes became a reality. Nobles, once content with large castles and fur robes, now seek dark sapphires and glittering diamonds. Experience the riches of this era in Splendor, a fast, elegant, and intuitive game in which players vie for control of gem mines, trade routes, and storefronts to master the gem trade and attract the attention of nobles.",
-        "price": "$30",
+        "price": "5",
         "players": "2-4",
         "time": "30 min",
         "type": "Strategy",
@@ -446,7 +446,7 @@
     {
         "title": "Star Realms",
         "description": "Forge your own star realm. Build up your military through shipping and trade, then use your mighty fleet of warships to protect what's yours and take what isn't! Star Realms combines the fun of deck-building games with the interactivity of trading card game-style combat. As you play use trade to add new ships and bases to your deck. When played, those ships and bases generate powerful effects, additional trade, and combat to attack your opponent and their bases.",
-        "price": "$12",
+        "price": "5",
         "players": "2",
         "time": "20 min",
         "type": "Strategy",
@@ -456,7 +456,7 @@
     {
         "title": "Street Fighter: Deck-Building Game",
         "description": "In Street Fighter Deck-building Game, you take on the role of Ryu, Ken, Chun-Li, Balrog, M. Bison, or one of the other well-known characters from the fan-favorite video games as you travel to exotic locales seeking new challenges in a competition to determine who reigns supreme! While you begin armed only with basic combat maneuvers, you will add new, more powerful cards to your deck as you go, with the goal of defeating as many Stage Bosses as you can and gaining the most Victory Points. Fight!",
-        "price": "$35",
+        "price": "5",
         "players": "2-5",
         "time": "30-45 min",
         "type": "Strategy",
@@ -466,7 +466,7 @@
     {
         "title": "Super Munchkin",
         "description": "Fly through the city. Smash the villains. Backstab your teammates and grab their gadgets. Munchkin has parodied the classic dungeon, the kung-fu warrior, the space epic, and the creatures of the night. Now, it's the superheroes' turn! Be a Mutant, an Exotic, a Mystic, or a Techno. The higher your Level, the more Powers you can have. Battle dastardly masterminds, devastating monsters, and invading aliens from the next dimension – from the wimpy Bucketman all the way up to Big Ol' Planet Eater Guy himself – and TAKE THEIR STUFF!",
-        "price": "$20",
+        "price": "5",
         "players": "3-8",
         "time": "1 hour",
         "type": "Strategy",
@@ -476,7 +476,7 @@
     {
         "title": "Sushi Go!",
         "description": "Pass the sushi! In this fast-playing card game, the goal is to grab the best combination of sushi dishes as they whiz by. Score points for making the most maki rolls or for collecting a full set of sashimi. Dip your favorite nigiri in wasabi to triple its value. But be sure to leave room for dessert or else you'll eat into your score! Gather the most points and consider yourself the sushi master!",
-        "price": "$10",
+        "price": "5",
         "players": "2-5",
         "time": "20 min",
         "type": "Social",
@@ -486,7 +486,7 @@
     {
         "title": "Swashbuckled!",
         "description": "So, you want to play Swashbuckled!, do you matey? Ye be warned that this be a game not for the faint-hearted. Once ye embark from port, ye never know where the winds will take ye. The seas, they are full of surprises!",
-        "price": "$40",
+        "price": "5",
         "players": "2-6",
         "time": "2 hours",
         "type": "Strategy",
@@ -496,7 +496,7 @@
     {
         "title": "Tenzi",
         "description": "Everyone gets ten dice. Someone says \"Go.\" Then everyone rolls and rolls as fast as they can until someone gets all their dice on the same number, or 76 other types of combinations! It's a fun, fast frenzy!",
-        "price": "$22",
+        "price": "5",
         "players": "2-6",
         "time": "Unlimited",
         "type": "Social",
@@ -506,7 +506,7 @@
     {
         "title": "The Good, the Bad, and the Munchkin",
         "description": "The Good, the Bad, and the Munchkin opens a whole new frontier - the Wild West! Forget dragons and goblins - Jackalopes and Davy Croc have just as much treasure. Those plains may seem wide open, but there's lots of monsters to kill, and lots of stuff to take.",
-        "price": "$25",
+        "price": "5",
         "players": "3-8",
         "time": "1-2 hours",
         "type": "Strategy",
@@ -516,7 +516,7 @@
     {
         "title": "The Metagame",
         "description": "Everyone has an opinion. The Metagame is a fun party game about sharing opinions on the most important debates of our time, like \"which feels more like first love: The Mona Lisa or the Big Mac?\" The Metagame includes culture cards that feature media, art, fashion and entertainment, and opinion cards that prompt lively chatter and lots of laughter. The Metagame is more than one game—it includes six unique games. Some of the games get you talking. Others are about thinking fast. Some games are strategic and others are just plain silly.",
-        "price": "$25",
+        "price": "5",
         "players": "2-33",
         "time": "15-30 min",
         "type": "Social",
@@ -526,7 +526,7 @@
     {
         "title": "The Oregon Trail",
         "description": "All sorts of gruesome deaths await you and the rest of your wagon party in this official multi-player card game version of the classic computer game. To win, you'll need to keep one player alive all the way from Independence, MO to the Willamette Valley. But between rattlesnakes, starvation, dead oxen, broken bones, dysentery, and a host of the other calamities, the odds are long...almost as long as the Oregon Trail itself. Players work together to move along the trail, fording rivers and playing Supply Cards to overcome calamities. But be warned - there will be times when it makes sense to let one of your wagon mates succumb to a calamity rather than expend precious supplies. Every time players go the way of all flesh, you'll flip over the roster card and write their names on tombstones (don't forget to include a quick epitaph). It's a great way to relive your fond memories of one of the world's most beloved computer games and to kill off your family and friends at the same time.",
-        "price": "$35",
+        "price": "5",
         "players": "2-6",
         "time": "30 min",
         "type": "Social",
@@ -536,7 +536,7 @@
     {
         "title": "The Settlers of Catan",
         "description": "Your adventurous settlers seek to tame the remote but rich isle of Catan. Start by revealing Catan’s many harbors and regions: pastures, fields, mountains, hills, forests, and desert. The random mix creates a different board virtually every game.",
-        "price": "$45",
+        "price": "5",
         "players": "3-4",
         "time": "60 min",
         "items": ["../assets/catan.png", "../assets/catan2.png"],
@@ -545,7 +545,7 @@
     {
         "title": "The Voting Game",
         "description": "The Voting Game is a party game that uncovers the hilarious truth behind your friendships! Play begins when the first question card is revealed, e.g., Who regularly orders delivery from less than 5 blocks away? Players then vote anonymously for the player that is best described by the question. Results are tallied and revealed to the group. Time to find out what your friends think about you!",
-        "price": "$25",
+        "price": "5",
         "players": "3-9",
         "time": "15 min",
         "items": ["../assets/voting.png", "../assets/voting2.png"],
@@ -554,7 +554,7 @@
     {
         "title": "Think N' Sync",
         "description": "3… 2… 1… Sync! Meld your minds in this hilarious party game of quick connections. Pick a partner and then, at the same time, shout out an answer to the chosen category. Can you both name a movie princess? An ice cream flavor? How about something orange? Your answers may be great, but they only score if they're identical! So think quickly, think cleverly, but most importantly- Think n' Sync!",
-        "price": "$25",
+        "price": "5",
         "players": "3-8",
         "time": "20 min",
         "items": ["../assets/thinknsinc.png"],
@@ -563,7 +563,7 @@
     {
         "title": "Ticket to Ride",
         "description": "Ticket to Ride is a cross-country train adventure in which players collect and play matching train cards to claim railway routes connecting cities through North America!",
-        "price": "$50",
+        "price": "5",
         "players": "2-5",
         "time": "60 min",
         "type": "Strategy",
@@ -573,7 +573,7 @@
     {
         "title": "Town of Salem",
         "description": "Town of Salem challenges players on their ability to convincingly lie as well as detect when other players are lying. If you are a Town member (the good guys) you must track down the Mafia and other villains before they kill you. The catch? You don’t know who is a Town member and who is a villain. If you are an evil role, such as a Serial Killer, you secretly murder town members in the veil of night and try to avoid getting caught.",
-        "price": "$20",
+        "price": "5",
         "players": "5-15",
         "time": "15 min",
         "type": "Social",
@@ -583,7 +583,7 @@
     {
         "title": "Villainous ",
         "description": "In this epic contest of sinister power, take on the role of a Disney Villain. To win, you must explore your character's unique abilities and discover how to achieve your own story-based objective. Each Villain Guide will inspire you with strategies and tips. Once you've figured out the best way to play as one Villain, try to solve another. There are six different Villains and each one achieves victory in a different way! Villains are: Captain Hook, Jafar, Maleficent, Prince John, Queen of Hearts, and Ursula.",
-        "price": "$35",
+        "price": "5",
         "players": "2-6",
         "time": "40 min (2 players) 120 min (6 players)",
         "type": "Strategy",
@@ -593,7 +593,7 @@
     {
         "title": "Villainous - Perfectly Wretched Expansion",
         "description": "(Same as regular description) There are three different Villains in this game: Cruella De Vil, Mother Gothel, and Pete. ",
-        "price": "$25",
+        "price": "5",
         "players": "2-3",
         "time": "40-60 min",
         "type": "Strategy",
@@ -603,7 +603,7 @@
     {
         "title": "Villainous - Wicked to the Core Expansion ",
         "description": "(Same as regular description) There are three different Villains in this game: Dr. Facilier, Evil Queen, and Hades.",
-        "price": "$24",
+        "price": "5",
         "players": "2-3",
         "time": "40-60 min",
         "type": "Strategy",
@@ -613,7 +613,7 @@
     {
         "title": "What Do You Meme?",
         "description": "An adult party game for meme lovers. Find out who will be crowned Meme Queen/King by competing with friends to match photo cards with caption cards, creating your own outrageously funny meme combinations. It’s the perfect excuse to call up the crew, and get everyone together for guaranteed laughs.",
-        "price": "$24",
+        "price": "5",
         "players": "3-20+",
         "time": "30-90 min",
         "type": "Social",
@@ -623,7 +623,7 @@
     {
         "title": "Skull King",
         "description": "Stuff",
-        "price": "$10",
+        "price": "5",
         "players": "2-6",
         "time": "45 min",
         "type": "Social",

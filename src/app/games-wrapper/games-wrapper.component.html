@@ -3,7 +3,7 @@
       <h1 class="text-center m-3">Games</h1>
       <h5 class="ml-3">Filters:</h5>
   
-      <div class="btn-group">
+      <div class="btn-group ml-3">
         <div class="btn-group" ngbDropdown role="group" aria-label="Button group with nested dropdown">
           <button class="btn btn-outline-primary" ngbDropdownToggle>{{currentPriceFilter}}</button>
           <div class="dropdown-menu" ngbDropdownMenu>
@@ -24,7 +24,6 @@
         </div>
       </div>
   
-      <p>Here are some links to help you get started:</p>
           <div class="container" style="width: 100%">
             <div *ngFor="let game of filteredGames">
               <app-game-section [title]='game.title'
