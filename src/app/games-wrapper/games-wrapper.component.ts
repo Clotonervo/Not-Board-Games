@@ -24,10 +24,7 @@ export class GamesWrapperComponent implements OnInit {
   filteredTypes = this.gamesArray;
   
 
-  constructor() { 
-    // console.log(this.gamesArray);
-    // console.log(this.getPlayers(this.games));
-  }
+  constructor() { }
 
   ngOnInit(): void { }
 
