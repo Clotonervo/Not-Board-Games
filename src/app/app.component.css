@@ -23,33 +23,30 @@
   .content {
     background-color: white;
     border-radius: 50px;
+    margin-top: 50px;
+  }
+  
+  .buffer {
+    margin: 80px;
   }
 
   .spacer {
-    flex: 1;
+    flex: 3;
   }
 
   .toolbar {
     height: 60px;
-    margin: -8px;
+    margin: 0;
     display: flex;
     align-items: center;
     background-color: #1976d2;
     color: white;
     font-weight: 600;
+    flex-direction: row;
   }
 
   .toolbar img {
     margin: 0 16px;
-  }
-
-  .toolbar #twitter-logo {
-    height: 40px;
-    margin: 0 16px;
-  }
-
-  .toolbar #twitter-logo:hover {
-    opacity: 0.8;
   }
 
   .content {
@@ -220,40 +217,6 @@
     align-items: center;
   }
 
-  .github-star-badge {
-    color: #24292e;
-    display: flex;
-    align-items: center;
-    font-size: 12px;
-    padding: 3px 10px;
-    border: 1px solid rgba(27,31,35,.2);
-    border-radius: 3px;
-    background-image: linear-gradient(-180deg,#fafbfc,#eff3f6 90%);
-    margin-left: 4px;
-    font-weight: 600;
-    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
-  }
-
-  .github-star-badge:hover {
-    background-image: linear-gradient(-180deg,#f0f3f6,#e6ebf1 90%);
-    border-color: rgba(27,31,35,.35);
-    background-position: -.5em;
-  }
-
-  .github-star-badge .material-icons {
-    height: 16px;
-    width: 16px;
-    margin-right: 4px;
-  }
-
-  svg#clouds {
-    position: fixed;
-    bottom: -160px;
-    left: -230px;
-    z-index: -10;
-    width: 1920px;
-  }
-
 
   /* Responsive Styles */
   @media screen and (max-width: 767px) {
@@ -284,6 +247,45 @@
       visibility: hidden;
     }
   }
+
+.navItem {
+  width: 33%;
+}
+
+.nav-tabs {
+  width: 90% !important;
+}
+
+.navlist{
+  list-style-type: none;
+  float: right;
+  margin: 0 15px 0 0;
+  padding-right: 0;
+  flex: 1;
+  text-align: center !important;
+}
+
+.navListItem {
+  float: right;
+  vertical-align: middle;
+  height: 100%;
+  width: 15%;
+  display: table-cell;
+  padding: 8px;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  overflow: hidden;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: color, background-color;
+  transition-property: color, background-color;
+}
+
+.navListItem:hover, .navListItem:focus, .navListItem:active {
+  background-color: white;
+  color: blue;
+}
+
 
 
 
