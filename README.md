@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1. It is a local board game website my friends and I started. It was an excuse to practice web development, as well as use a few other technologies that I wasn't super familiar with.
 
+Currently it is not hosted on any service, but will be hosted using BYU's free domain service provided to its students. Future developements include:
+- Providing instant payment options
+- A live calendar that displays the availability for each board game
+- Other developments as we need them
+
 ## Docker
 
 To run on a docker image, I have provided a Dockerfile. All you need to do is create the image, subsituting <image-name> with whatever you desire:
