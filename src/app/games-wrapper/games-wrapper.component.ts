@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, HostListener, OnInit } from '@angular/core';
 import games from '../../assets/games.json';
 import { kMaxLength } from 'buffer';
 
@@ -22,11 +22,18 @@ export class GamesWrapperComponent implements OnInit {
   currentTypeFilter: string = "Strategy & Social";
   typeFilters = ["Strategy & Social", "Strategy", "Social"];
   filteredTypes = this.gamesArray;
+
+  currentSize = window.innerWidth;
   
 
   constructor() { }
 
   ngOnInit(): void { }
+
+  @HostListener('window:resize', ['$event'])
+  onResize(event){
+    this.currentSize = window.innerWidth;
+  }
 
   changePriceFilter(filter){
     this.currentPriceFilter = filter;
