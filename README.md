@@ -1,5 +1,5 @@
 # NotBoardGames
-notboredboardgames.net
+[](notboredboardgames.net)
 It is a local board game website my friends and I started. It was an excuse to practice web development, as well as use a few other technologies that I wasn't super familiar with.
 
 Currently it is hosted using BYU's free domain service provided to its students. Future developements include:
